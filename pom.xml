@@ -156,7 +156,7 @@
         <avroVersion>1.7.6</avroVersion>
         <jacksonAslVersion>1.9.13</jacksonAslVersion>
         <commonsCompressVersion>1.5</commonsCompressVersion>
-        <commonsIoVersion>2.1</commonsIoVersion>
+        <commonsIoVersion>2.7</commonsIoVersion>
         <jbossTransactionApiVersion>1.0.0.Final</jbossTransactionApiVersion>
         <commonsCodecVersion>1.6</commonsCodecVersion>
         <commonsLoggingVersion>1.1.1</commonsLoggingVersion>
